@@ -58,7 +58,7 @@ int main(int argc, char* argv[])
             return -7;
         }
 
-        Mix_VolumeMusic(30);
+        Mix_VolumeMusic(5);
 
         int quit{};
         bool interim;
